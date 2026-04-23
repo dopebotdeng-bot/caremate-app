@@ -1,0 +1,6 @@
+[general]
+name = "caremate-app"
+repository = "https://github.com/dopebotdeng-bot/caremate-app"
+
+[streamlit]
+appPath = "caremate_app.py"
