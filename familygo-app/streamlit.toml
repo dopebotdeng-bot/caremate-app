@@ -1,0 +1,6 @@
+[general]
+name = "familygo-app"
+repository = "https://github.com/dopebotdeng-bot/familygo-app"
+
+[streamlit]
+appPath = "familygo_app.py"
